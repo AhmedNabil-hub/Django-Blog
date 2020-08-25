@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:django_project}/db.sqlite3",
+            "driver": "SQLite",
+            "group": "django",
+            "name": "blog",
+            "previewLimit": 100
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
